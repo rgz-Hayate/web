@@ -1,0 +1,13 @@
+body{
+    align-items: center;
+}
+
+h1{
+    border: solid 7px;
+    border-radius: 15px;
+}
+
+.container{
+    border: solid10px;
+    border-radius: 20px;
+}
